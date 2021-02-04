@@ -1,5 +1,5 @@
 
-# 선형탐색 알고리즘 함수
+# Linear Search Algortihm
 def linear_search(element, some_list):
     for i in range(len(some_list)):
         if some_list[i] == element:
