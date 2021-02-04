@@ -7,10 +7,10 @@ def binary_search(element, some_list):
         midpoint = (start + end) // 2
         if element == some_list[midpoint]:
             return midpoint
-        elif element < some_list[midpoint]:
-            end = ((start + end) // 2) + 1
+        elif element > some_list[midpoint]:
+            start = midpoint + 1
         else:
-            start = ((start + end) // 2) - 1
+            end = midpoint - 1
     return None
     
 print(binary_search(2, [2, 3, 5, 7, 11]))
