@@ -1,3 +1,4 @@
+# Recursive_practice_2_Fibonacci_Fuction
 # n번째 피보나치 수를 리턴
 def fib(n):
     if n == 1 or n == 2:
