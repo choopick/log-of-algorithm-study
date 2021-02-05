@@ -1,4 +1,5 @@
-# Recursive Function
+# Recursive_practice_1
+# Factorial Fuction
 
 def Factorial(n):
 	if n == 0:
