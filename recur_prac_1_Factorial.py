@@ -1,7 +1,7 @@
 # Recursive_practice_1
 # Factorial Fuction
 
-def Factorial(n):
+def factorial(n):
 	if n == 0:
 		return 1
 	return factorial(n - 1) * n

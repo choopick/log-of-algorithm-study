@@ -1,3 +1,4 @@
+# Recursive_practice_5_Flip_list
 new_list = list()
 # 파라미터 some_list를 거꾸로 뒤집는 함수
 def flip(some_list):
