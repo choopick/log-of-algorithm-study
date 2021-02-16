@@ -1,4 +1,5 @@
 # This repository is for studying algorithms.
+# 2020_02_16 now I have a NEW arm silicon macbook air!
 
 **1. Linear Algorithm**  
 **2. Binary Algorithm**  
